@@ -4,8 +4,8 @@
 %global crate skim
 
 Name:           rust-%{crate}
-Version:        0.7.0
-Release:        2%{?dist}
+Version:        5.6.1
+Release:        1%{?dist}
 Summary:        Fuzzy Finder in Rust
 
 # Upstream license specification: MIT
